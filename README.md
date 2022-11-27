@@ -13,7 +13,7 @@ this simple script will install 4 things on your Mac
 
 ### Install
 ```bash
-/bin/bash -c "curl -fsSL https://raw.githubusercontent.com/ahmad-reza619/ruby_mac_installer/HEAD/install.sh"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/ahmad-reza619/ruby_mac_installer/HEAD/install.sh)"
 ```
 
 ### Uninstall
